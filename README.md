@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que implementa un chatbot para el supermerc
 1. **Clona este repositorio:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <[URL_DEL_REPOSITORIO](https://github.com/AntonioZurano/asistentes-openai.git)>
    cd 03-asistentes-openai
    ```
   
